@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPager_Notification</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="description">this is description</string>
+    <string name="customeview">CustomeView</string>
+</resources>
